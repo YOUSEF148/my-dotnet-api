@@ -1,0 +1,314 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u0644\u0648\u0643\u0627\\APIS2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{184B1DA0-037B-4154-8FFC-6C93A08873C7}|APIS2\\APIS2.csproj|e:\\\u0644\u0648\u0643\u0627\\apis2\\apis2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184B1DA0-037B-4154-8FFC-6C93A08873C7}|APIS2\\APIS2.csproj|solutionrelative:apis2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23478CAC-7B45-4754-973D-B1212A4A931D}|core\\core.csproj|e:\\\u0644\u0648\u0643\u0627\\apis2\\core\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23478CAC-7B45-4754-973D-B1212A4A931D}|core\\core.csproj|solutionrelative:core\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CECC2FE-D654-4902-A53F-575E8F61A126}|Service\\Service.csproj|e:\\\u0644\u0648\u0643\u0627\\apis2\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CECC2FE-D654-4902-A53F-575E8F61A126}|Service\\Service.csproj|solutionrelative:service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CECC2FE-D654-4902-A53F-575E8F61A126}|Service\\Service.csproj|e:\\\u0644\u0648\u0643\u0627\\apis2\\service\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CECC2FE-D654-4902-A53F-575E8F61A126}|Service\\Service.csproj|solutionrelative:service\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184B1DA0-037B-4154-8FFC-6C93A08873C7}|APIS2\\APIS2.csproj|e:\\\u0644\u0648\u0643\u0627\\apis2\\apis2\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184B1DA0-037B-4154-8FFC-6C93A08873C7}|APIS2\\APIS2.csproj|solutionrelative:apis2\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CECC2FE-D654-4902-A53F-575E8F61A126}|Service\\Service.csproj|e:\\\u0644\u0648\u0643\u0627\\apis2\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CECC2FE-D654-4902-A53F-575E8F61A126}|Service\\Service.csproj|solutionrelative:service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23478CAC-7B45-4754-973D-B1212A4A931D}|core\\core.csproj|e:\\\u0644\u0648\u0643\u0627\\apis2\\core\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23478CAC-7B45-4754-973D-B1212A4A931D}|core\\core.csproj|solutionrelative:core\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5837B88A-B63E-48B9-909B-FF8E66C43733}|Repository\\Repository.csproj|e:\\\u0644\u0648\u0643\u0627\\apis2\\repository\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5837B88A-B63E-48B9-909B-FF8E66C43733}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5837B88A-B63E-48B9-909B-FF8E66C43733}|Repository\\Repository.csproj|e:\\\u0644\u0648\u0643\u0627\\apis2\\repository\\repositories\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5837B88A-B63E-48B9-909B-FF8E66C43733}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CECC2FE-D654-4902-A53F-575E8F61A126}|Service\\Service.csproj|e:\\\u0644\u0648\u0643\u0627\\apis2\\service\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CECC2FE-D654-4902-A53F-575E8F61A126}|Service\\Service.csproj|solutionrelative:service\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184B1DA0-037B-4154-8FFC-6C93A08873C7}|APIS2\\APIS2.csproj|e:\\\u0644\u0648\u0643\u0627\\apis2\\apis2\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184B1DA0-037B-4154-8FFC-6C93A08873C7}|APIS2\\APIS2.csproj|solutionrelative:apis2\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5837B88A-B63E-48B9-909B-FF8E66C43733}|Repository\\Repository.csproj|e:\\\u0644\u0648\u0643\u0627\\apis2\\repository\\repositories\\applicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5837B88A-B63E-48B9-909B-FF8E66C43733}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\applicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184B1DA0-037B-4154-8FFC-6C93A08873C7}|APIS2\\APIS2.csproj|e:\\\u0644\u0648\u0643\u0627\\apis2\\apis2\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184B1DA0-037B-4154-8FFC-6C93A08873C7}|APIS2\\APIS2.csproj|solutionrelative:apis2\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23478CAC-7B45-4754-973D-B1212A4A931D}|core\\core.csproj|e:\\\u0644\u0648\u0643\u0627\\apis2\\core\\interface\\iapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23478CAC-7B45-4754-973D-B1212A4A931D}|core\\core.csproj|solutionrelative:core\\interface\\iapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23478CAC-7B45-4754-973D-B1212A4A931D}|core\\core.csproj|e:\\\u0644\u0648\u0643\u0627\\apis2\\core\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23478CAC-7B45-4754-973D-B1212A4A931D}|core\\core.csproj|solutionrelative:core\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184B1DA0-037B-4154-8FFC-6C93A08873C7}|APIS2\\APIS2.csproj|e:\\\u0644\u0648\u0643\u0627\\apis2\\apis2\\helpers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184B1DA0-037B-4154-8FFC-6C93A08873C7}|APIS2\\APIS2.csproj|solutionrelative:apis2\\helpers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23478CAC-7B45-4754-973D-B1212A4A931D}|core\\core.csproj|e:\\\u0644\u0648\u0643\u0627\\apis2\\core\\interface\\iapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23478CAC-7B45-4754-973D-B1212A4A931D}|core\\core.csproj|solutionrelative:core\\interface\\iapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 195,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "E:\\\u0644\u0648\u0643\u0627\\APIS2\\APIS2\\Helpers\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "APIS2\\Helpers\\MappingProfiles.cs",
+              "ToolTip": "E:\\\u0644\u0648\u0643\u0627\\APIS2\\APIS2\\Helpers\\MappingProfiles.cs",
+              "RelativeToolTip": "APIS2\\Helpers\\MappingProfiles.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:54:06.972Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IApplicationRepository.cs",
+              "DocumentMoniker": "E:\\\u0644\u0648\u0643\u0627\\APIS2\\core\\Interface\\IApplicationRepository.cs",
+              "RelativeDocumentMoniker": "core\\Interface\\IApplicationRepository.cs",
+              "ToolTip": "E:\\\u0644\u0648\u0643\u0627\\APIS2\\core\\Interface\\IApplicationRepository.cs",
+              "RelativeToolTip": "core\\Interface\\IApplicationRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T23:02:08.973Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\\u0644\u0648\u0643\u0627\\APIS2\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "Service\\UserService.cs",
+              "ToolTip": "E:\\\u0644\u0648\u0643\u0627\\APIS2\\Service\\UserService.cs",
+              "RelativeToolTip": "Service\\UserService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAxwAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T04:24:00.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobController.cs",
+              "DocumentMoniker": "E:\\\u0644\u0648\u0643\u0627\\APIS2\\APIS2\\Controllers\\JobController.cs",
+              "RelativeDocumentMoniker": "APIS2\\Controllers\\JobController.cs",
+              "ToolTip": "E:\\\u0644\u0648\u0643\u0627\\APIS2\\APIS2\\Controllers\\JobController.cs",
+              "RelativeToolTip": "APIS2\\Controllers\\JobController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAIAxwHMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T03:10:17.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\\u0644\u0648\u0643\u0627\\APIS2\\core\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "core\\Interface\\IUserService.cs",
+              "ToolTip": "E:\\\u0644\u0648\u0643\u0627\\APIS2\\core\\Interface\\IUserService.cs",
+              "RelativeToolTip": "core\\Interface\\IUserService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T04:31:18.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u0644\u0648\u0643\u0627\\APIS2\\APIS2\\Program.cs",
+              "RelativeDocumentMoniker": "APIS2\\Program.cs",
+              "ToolTip": "E:\\\u0644\u0648\u0643\u0627\\APIS2\\APIS2\\Program.cs*",
+              "RelativeToolTip": "APIS2\\Program.cs*",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T02:05:21.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobService.cs",
+              "DocumentMoniker": "E:\\\u0644\u0648\u0643\u0627\\APIS2\\Service\\JobService.cs",
+              "RelativeDocumentMoniker": "Service\\JobService.cs",
+              "ToolTip": "E:\\\u0644\u0648\u0643\u0627\\APIS2\\Service\\JobService.cs",
+              "RelativeToolTip": "Service\\JobService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwD4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T02:42:45.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\\u0644\u0648\u0643\u0627\\APIS2\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "Service\\AuthService.cs",
+              "ToolTip": "E:\\\u0644\u0648\u0643\u0627\\APIS2\\Service\\AuthService.cs",
+              "RelativeToolTip": "Service\\AuthService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAEBCwBAAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T02:02:33.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "E:\\\u0644\u0648\u0643\u0627\\APIS2\\core\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "core\\Interface\\IUserRepository.cs",
+              "ToolTip": "E:\\\u0644\u0648\u0643\u0627\\APIS2\\core\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "core\\Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T04:28:41.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\\u0644\u0648\u0643\u0627\\APIS2\\Repository\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\UserRepository.cs",
+              "ToolTip": "E:\\\u0644\u0648\u0643\u0627\\APIS2\\Repository\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T04:26:54.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JobRepository.cs",
+              "DocumentMoniker": "E:\\\u0644\u0648\u0643\u0627\\APIS2\\Repository\\Repositories\\JobRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\JobRepository.cs",
+              "ToolTip": "E:\\\u0644\u0648\u0643\u0627\\APIS2\\Repository\\Repositories\\JobRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\JobRepository.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAiwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T04:43:07.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationService.cs",
+              "DocumentMoniker": "E:\\\u0644\u0648\u0643\u0627\\APIS2\\Service\\ApplicationService.cs",
+              "RelativeDocumentMoniker": "Service\\ApplicationService.cs",
+              "ToolTip": "E:\\\u0644\u0648\u0643\u0627\\APIS2\\Service\\ApplicationService.cs",
+              "RelativeToolTip": "Service\\ApplicationService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwBEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T02:45:07.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\\u0644\u0648\u0643\u0627\\APIS2\\APIS2\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "APIS2\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\\u0644\u0648\u0643\u0627\\APIS2\\APIS2\\Controllers\\UserController.cs",
+              "RelativeToolTip": "APIS2\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAiwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T01:59:48.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationRepository.cs",
+              "DocumentMoniker": "E:\\\u0644\u0648\u0643\u0627\\APIS2\\Repository\\Repositories\\ApplicationRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\ApplicationRepository.cs",
+              "ToolTip": "E:\\\u0644\u0648\u0643\u0627\\APIS2\\Repository\\Repositories\\ApplicationRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\ApplicationRepository.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwDAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T02:47:28.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationController.cs",
+              "DocumentMoniker": "E:\\\u0644\u0648\u0643\u0627\\APIS2\\APIS2\\Controllers\\ApplicationController.cs",
+              "RelativeDocumentMoniker": "APIS2\\Controllers\\ApplicationController.cs",
+              "ToolTip": "E:\\\u0644\u0648\u0643\u0627\\APIS2\\APIS2\\Controllers\\ApplicationController.cs",
+              "RelativeToolTip": "APIS2\\Controllers\\ApplicationController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAiwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T02:11:26.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IApplicationService.cs",
+              "DocumentMoniker": "E:\\\u0644\u0648\u0643\u0627\\APIS2\\core\\Interface\\IApplicationService.cs",
+              "RelativeDocumentMoniker": "core\\Interface\\IApplicationService.cs",
+              "ToolTip": "E:\\\u0644\u0648\u0643\u0627\\APIS2\\core\\Interface\\IApplicationService.cs",
+              "RelativeToolTip": "core\\Interface\\IApplicationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T02:53:34.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "E:\\\u0644\u0648\u0643\u0627\\APIS2\\core\\Interface\\IAuthService.cs",
+              "RelativeDocumentMoniker": "core\\Interface\\IAuthService.cs",
+              "ToolTip": "E:\\\u0644\u0648\u0643\u0627\\APIS2\\core\\Interface\\IAuthService.cs",
+              "RelativeToolTip": "core\\Interface\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T02:04:43.699Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 33,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
