@@ -111,7 +111,7 @@ if (app.Environment.IsDevelopment())
 app.UseCors("AllowAllOrigins");
 
 // 🔹 Middleware Configuration
-app.UseHttpsRedirection();
+//app.UseHttpsRedirection();
 app.UseAuthentication();  // ✅ Ensures authentication middleware is applied
 app.UseAuthorization();
 app.MapControllers();

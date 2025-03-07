@@ -1,12 +1,125 @@
 {
   "Version": 1,
-  "Hash": "WpD7nBhqDLRx5YgH5qQ3hD9kSYq1rIx/Y7ofbd9oB/k=",
+  "Hash": "ABxFbDJK+r1QEAVXhygW3d5I/Z4KP1DkZ9f2ayFS4g8=",
   "Source": "APIS2",
   "BasePath": "_content/APIS2",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "APIS2\\wwwroot",
+      "Source": "APIS2",
+      "ContentRoot": "E:\\AnyDesk\\APIS2\\APIS2\\wwwroot\\",
+      "BasePath": "_content/APIS2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\AnyDesk\\APIS2\\APIS2\\wwwroot\\postman\\swagger.json",
+      "SourceId": "APIS2",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\AnyDesk\\APIS2\\APIS2\\wwwroot\\",
+      "BasePath": "_content/APIS2",
+      "RelativePath": "postman/swagger#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r04u8kevg1",
+      "Integrity": "2+enr0p4AssSlDN0bUJJ8wCcPFqpcf+KR0oRZ8MBh0M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\postman\\swagger.json"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "postman/swagger.json",
+      "AssetFile": "E:\\AnyDesk\\APIS2\\APIS2\\wwwroot\\postman\\swagger.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9953"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2+enr0p4AssSlDN0bUJJ8wCcPFqpcf+KR0oRZ8MBh0M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 04:55:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2+enr0p4AssSlDN0bUJJ8wCcPFqpcf+KR0oRZ8MBh0M="
+        }
+      ]
+    },
+    {
+      "Route": "postman/swagger.r04u8kevg1.json",
+      "AssetFile": "E:\\AnyDesk\\APIS2\\APIS2\\wwwroot\\postman\\swagger.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9953"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2+enr0p4AssSlDN0bUJJ8wCcPFqpcf+KR0oRZ8MBh0M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 04:55:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r04u8kevg1"
+        },
+        {
+          "Name": "label",
+          "Value": "postman/swagger.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2+enr0p4AssSlDN0bUJJ8wCcPFqpcf+KR0oRZ8MBh0M="
+        }
+      ]
+    }
+  ]
 }

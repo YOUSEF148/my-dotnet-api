@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\لوكا\\APIS2\\core\\core.csproj": {}
+    "E:\\AnyDesk\\APIS2\\core\\core.csproj": {}
   },
   "projects": {
-    "E:\\لوكا\\APIS2\\core\\core.csproj": {
+    "E:\\AnyDesk\\APIS2\\core\\core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\لوكا\\APIS2\\core\\core.csproj",
+        "projectUniqueName": "E:\\AnyDesk\\APIS2\\core\\core.csproj",
         "projectName": "core",
-        "projectPath": "E:\\لوكا\\APIS2\\core\\core.csproj",
+        "projectPath": "E:\\AnyDesk\\APIS2\\core\\core.csproj",
         "packagesPath": "C:\\Users\\youse\\.nuget\\packages\\",
-        "outputPath": "E:\\لوكا\\APIS2\\core\\obj\\",
+        "outputPath": "E:\\AnyDesk\\APIS2\\core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,5 +1,88 @@
 {
   "Version": 1,
   "ManifestType": "Build",
-  "Endpoints": []
+  "Endpoints": [
+    {
+      "Route": "postman/swagger.json",
+      "AssetFile": "postman/swagger.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9953"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2+enr0p4AssSlDN0bUJJ8wCcPFqpcf+KR0oRZ8MBh0M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 04:55:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2+enr0p4AssSlDN0bUJJ8wCcPFqpcf+KR0oRZ8MBh0M="
+        }
+      ]
+    },
+    {
+      "Route": "postman/swagger.r04u8kevg1.json",
+      "AssetFile": "postman/swagger.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9953"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2+enr0p4AssSlDN0bUJJ8wCcPFqpcf+KR0oRZ8MBh0M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 04:55:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r04u8kevg1"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2+enr0p4AssSlDN0bUJJ8wCcPFqpcf+KR0oRZ8MBh0M="
+        },
+        {
+          "Name": "label",
+          "Value": "postman/swagger.json"
+        }
+      ]
+    }
+  ]
 }

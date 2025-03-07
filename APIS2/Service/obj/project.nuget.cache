@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SCRR8E/25Bk=",
+  "dgSpecHash": "VPrS1RQZvnM=",
   "success": true,
-  "projectFilePath": "E:\\لوكا\\APIS2\\Service\\Service.csproj",
+  "projectFilePath": "E:\\AnyDesk\\APIS2\\Service\\Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\youse\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\youse\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

@@ -2216,11 +2216,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\لوكا\\APIS2\\Service\\Service.csproj",
+      "projectUniqueName": "E:\\AnyDesk\\APIS2\\Service\\Service.csproj",
       "projectName": "Service",
-      "projectPath": "E:\\لوكا\\APIS2\\Service\\Service.csproj",
+      "projectPath": "E:\\AnyDesk\\APIS2\\Service\\Service.csproj",
       "packagesPath": "C:\\Users\\youse\\.nuget\\packages\\",
-      "outputPath": "E:\\لوكا\\APIS2\\Service\\obj\\",
+      "outputPath": "E:\\AnyDesk\\APIS2\\Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2241,11 +2241,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\لوكا\\APIS2\\core\\core.csproj": {
-              "projectPath": "E:\\لوكا\\APIS2\\core\\core.csproj"
+            "E:\\AnyDesk\\APIS2\\core\\core.csproj": {
+              "projectPath": "E:\\AnyDesk\\APIS2\\core\\core.csproj"
             },
-            "E:\\لوكا\\APIS2\\Repository\\Repository.csproj": {
-              "projectPath": "E:\\لوكا\\APIS2\\Repository\\Repository.csproj"
+            "E:\\AnyDesk\\APIS2\\Repository\\Repository.csproj": {
+              "projectPath": "E:\\AnyDesk\\APIS2\\Repository\\Repository.csproj"
             }
           }
         }

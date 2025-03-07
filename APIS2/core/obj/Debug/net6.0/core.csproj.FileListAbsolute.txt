@@ -22,3 +22,16 @@ E:\لوكا\APIS2\core\obj\Debug\net6.0\core.dll
 E:\لوكا\APIS2\core\obj\Debug\net6.0\refint\core.dll
 E:\لوكا\APIS2\core\obj\Debug\net6.0\core.pdb
 E:\لوكا\APIS2\core\obj\Debug\net6.0\ref\core.dll
+E:\AnyDesk\APIS2\core\bin\Debug\net6.0\core.deps.json
+E:\AnyDesk\APIS2\core\bin\Debug\net6.0\core.dll
+E:\AnyDesk\APIS2\core\bin\Debug\net6.0\core.pdb
+E:\AnyDesk\APIS2\core\obj\Debug\net6.0\core.csproj.AssemblyReference.cache
+E:\AnyDesk\APIS2\core\obj\Debug\net6.0\core.GeneratedMSBuildEditorConfig.editorconfig
+E:\AnyDesk\APIS2\core\obj\Debug\net6.0\core.AssemblyInfoInputs.cache
+E:\AnyDesk\APIS2\core\obj\Debug\net6.0\core.AssemblyInfo.cs
+E:\AnyDesk\APIS2\core\obj\Debug\net6.0\core.csproj.CoreCompileInputs.cache
+E:\AnyDesk\APIS2\core\obj\Debug\net6.0\core.sourcelink.json
+E:\AnyDesk\APIS2\core\obj\Debug\net6.0\core.dll
+E:\AnyDesk\APIS2\core\obj\Debug\net6.0\refint\core.dll
+E:\AnyDesk\APIS2\core\obj\Debug\net6.0\core.pdb
+E:\AnyDesk\APIS2\core\obj\Debug\net6.0\ref\core.dll

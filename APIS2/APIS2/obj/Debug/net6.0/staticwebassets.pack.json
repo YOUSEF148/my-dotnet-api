@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\AnyDesk\\APIS2\\APIS2\\wwwroot\\postman\\swagger.json",
+      "PackagePath": "staticwebassets\\postman\\swagger.json"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.APIS2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.APIS2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.APIS2.props",
+      "PackagePath": "build\\APIS2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.APIS2.props",
+      "PackagePath": "buildMultiTargeting\\APIS2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.APIS2.props",
+      "PackagePath": "buildTransitive\\APIS2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

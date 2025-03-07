@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/APIS2/postman/swagger.json">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\postman\swagger.json'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2\u002Benr0p4AssSlDN0bUJJ8wCcPFqpcf\u002BKR0oRZ8MBh0M="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"9953"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u00222\u002Benr0p4AssSlDN0bUJJ8wCcPFqpcf\u002BKR0oRZ8MBh0M=\u0022"},{"Name":"Last-Modified","Value":"Fri, 07 Mar 2025 04:55:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/APIS2/postman/swagger.r04u8kevg1.json">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\postman\swagger.json'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"r04u8kevg1"},{"Name":"integrity","Value":"sha256-2\u002Benr0p4AssSlDN0bUJJ8wCcPFqpcf\u002BKR0oRZ8MBh0M="},{"Name":"label","Value":"_content/APIS2/postman/swagger.json"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9953"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u00222\u002Benr0p4AssSlDN0bUJJ8wCcPFqpcf\u002BKR0oRZ8MBh0M=\u0022"},{"Name":"Last-Modified","Value":"Fri, 07 Mar 2025 04:55:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
